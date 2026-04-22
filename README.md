@@ -27,21 +27,19 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 - Data Cleaning Project  
 - Exploratory Data Analysis (EDA)
 
-  Folder: SQL-Projects
-
+  [View SQL Projects](./SQL-Projects)
 
 ### Excel Projects
 - Bike Sales Dashboard  
 - Vrinda Store Sales Dashboard  
 
-   Folder: Excel-Projects
+[View Excel Projects](./Excel-Projects)
 
 
-## 🎯 Goal
+## Goal
 
 To become a skilled Data Analyst and build real-world data projects that solve business problems.
 
----
 
 ## 📫 Contact
 
