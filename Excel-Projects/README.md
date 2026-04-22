@@ -7,6 +7,10 @@ Skills Used:
 - Charts
 - Data Cleaning
 
+Tools Used:
+- Microsoft Excel
+
 Projects:
 1. Bike Sales Dashboard
 2. Vrinda Store Sales Dashboard
+
