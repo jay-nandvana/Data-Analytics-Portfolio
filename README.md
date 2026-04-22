@@ -5,7 +5,6 @@ Aspiring Data Analyst skilled in SQL, Excel, and Power BI.
 
 I enjoy working with data to clean, analyze, and create meaningful insights through dashboards and reports.
 
----
 
 ## Skills
 
@@ -14,7 +13,6 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 - Data Visualization
 - Dashboard Creation
 
----
 
 ## Tools & Technologies
 
@@ -22,7 +20,6 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 - Microsoft Excel
 - Power BI (Learning)
 
----
 
 ## Projects
 
@@ -32,7 +29,6 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 
   Folder: SQL-Projects
 
----
 
 ### Excel Projects
 - Bike Sales Dashboard  
@@ -40,7 +36,6 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 
    Folder: Excel-Projects
 
----
 
 ## 🎯 Goal
 
