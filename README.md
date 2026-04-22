@@ -33,7 +33,7 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 - Bike Sales Dashboard  
 - Vrinda Store Sales Dashboard  
 
-[View Excel Projects](./Excel-Projects)
+  [View Excel Projects](./Excel-Projects)
 
 
 ## Goal
