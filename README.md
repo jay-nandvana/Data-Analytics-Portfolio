@@ -24,7 +24,7 @@ I work on data analytics projects using SQL, Excel, and Power BI to clean data, 
 - Madhav Ecommerce Sales Dashboard
 - Super Store Sales Dashboard
 
- [View PowerBI Projects](./PowerBI-Projects)
+  [View PowerBI Projects](./PowerBI-Projects)
 
 ### SQL Projects
 - Data Cleaning Project  
