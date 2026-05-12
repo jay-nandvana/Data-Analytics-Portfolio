@@ -1,10 +1,8 @@
 # Data Analytics Portfolio
 
-Hi, I'm Jay   
-Aspiring Data Analyst skilled in SQL, Excel, and Power BI.
+Hi, I'm Jay.
 
-I enjoy working with data to clean, analyze, and create meaningful insights through dashboards and reports.
-
+I work on data analytics projects using SQL, Excel, and Power BI to clean data, analyze trends, and create dashboards that support business insights and decision-making.
 
 ## Skills
 
@@ -13,13 +11,19 @@ I enjoy working with data to clean, analyze, and create meaningful insights thro
 - Data Visualization
 - Dashboard Creation
 
-
 ## Tools & Technologies
 
-- SQL (MySQL)
+- SQL
+- Power BI
 - Microsoft Excel
-- Power BI (Learning)
 
+## Power BI Projects
+
+- HR Analytics Dashboard
+- Madhav Ecommerce Sales Dashboard
+- Super Store Sales Dashboard
+
+ [View PowerBI Projects](./PowerBI-Projects)
 
 ## Projects
 
