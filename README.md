@@ -19,7 +19,7 @@ I work on data analytics projects using SQL, Excel, and Power BI to clean data, 
 
 ## Projects
 
-## Power BI Projects
+### Power BI Projects
 - HR Analytics Dashboard
 - Madhav Ecommerce Sales Dashboard
 - Super Store Sales Dashboard
