@@ -17,15 +17,14 @@ I work on data analytics projects using SQL, Excel, and Power BI to clean data, 
 - Power BI
 - Microsoft Excel
 
-## Power BI Projects
+## Projects
 
+## Power BI Projects
 - HR Analytics Dashboard
 - Madhav Ecommerce Sales Dashboard
 - Super Store Sales Dashboard
 
  [View PowerBI Projects](./PowerBI-Projects)
-
-## Projects
 
 ### SQL Projects
 - Data Cleaning Project  
